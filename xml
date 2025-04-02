@@ -1,0 +1,15 @@
+<dependencies>
+    <!-- Apache Commons CSV for reading CSV files -->
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-csv</artifactId>
+        <version>1.8</version>
+    </dependency>
+
+    <!-- Apache Commons Math for statistical and regression analysis -->
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-math3</artifactId>
+        <version>3.6.1</version>
+    </dependency>
+</dependencies>
